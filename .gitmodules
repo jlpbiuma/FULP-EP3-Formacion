@@ -1,3 +1,7 @@
 [submodule "semana1"]
 	path = semana1
 	url = https://github.com/jlpbiuma/FULP-EP3-Formacion-Semana1
+
+[submodule "semana2"]
+	path = semana2
+	url = https://github.com/jlpbiuma/FULP-EP3-Formacion-Semana2
