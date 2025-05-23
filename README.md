@@ -4,4 +4,5 @@ Repositorio de acceso a todos los recursos por semanas de la formación de Escue
 
 # Semanas disponibles
 
-- [Semana 1](https://github.com/jlpbiuma/FULP-EP3-Formacion-Semana1)
+- [Semana 1 - Cursor + Docker on MERN](https://github.com/jlpbiuma/FULP-EP3-Formacion-Semana1)
+- [Semana 2 - Relational databases](https://github.com/jlpbiuma/FULP-EP3-Formacion-Semana2)
